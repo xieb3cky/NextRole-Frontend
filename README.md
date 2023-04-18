@@ -1,6 +1,6 @@
 
 # NextRole
-Link to [Backend]() 
+Link to [Backend](https://github.com/xieb3cky/NextRole-Backend) 
 
 ## Summary 
 Next Role is a fullstack web application that allows users to search for jobs and companies, create a profile, edit their profile information, and apply to jobs.
